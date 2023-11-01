@@ -19,10 +19,8 @@ Mục tiêu là tạo ra một hệ thống tự động hoàn toàn cho việc 
 # GIỚI THIỆU CÔNG NGHỆ
 Hệ thống sử dụng ngôn ngữ C# và SQL để quản lí dữ liệu
 
-
-
-![logo](https://github.com/Huytx203/NHOM5_THUEXE_T4_CA3/assets/115370011/0bfd80d9-2de7-4bdf-b46f-70cb6e23de0d)
-![809746be-0b96-4af0-aa2f-5d1aeaa82658](https://github.com/Huytx203/NHOM5_THUEXE_T4_CA3/assets/115370011/22417780-86ef-4fc2-8078-8db0653ee035)
+![11](https://github.com/Huytx203/NHOM5_THUEXE_T4_CA3/assets/115370011/f7f2c58a-f936-4cdd-ab94-54adb555eae5)
+![04f0b53ade8909d75098](https://github.com/Huytx203/NHOM5_THUEXE_T4_CA3/assets/115370011/6f9e5158-cf0f-4b84-8331-18ac5e9cad32)
 
 
 # CHỨC NĂNG ĐÃ LÀM
