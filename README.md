@@ -12,9 +12,13 @@ TH_CNPMNC_Ca3_Thu4
 
 
 # GIỚI THIỆU ĐỀ TÀI
-Đề tài quản lí thuê xe tập trung vào nghiên cứu và phát triển hệ thống quản lí thông qua công nghệ thông tin và phần mềm quản lí. 
-Mục tiêu là tạo ra một hệ thống tự động hoàn toàn cho việc thuê và trả xe, từ đặt xe trực tuyến đến thanh toán và quản lí hợp đồng.
-Đề tài cũng đi sâu vào các khía cạnh quản lí xe, lịch trình và an toàn.
+Đề tài quản lý thuê xe là một ứng dụng hoặc hệ thống dành cho doanh nghiệp hoặc cá nhân để quản lý dịch vụ cho thuê các loại phương tiện như ôtô, xe máy,..
+Nó cung cấp tính năng quản lý đặt hàng, xem thông tin xe, quản lý đơn đặt xe, và tích hợp thanh toán.
+Phần mềm giúp tối ưu hóa quá trình kinh doanh thuê xe, cải thiện trải nghiệm của khách hàng, và tạo tính minh bạch trong quản lý dịch vụ.
+Nó còn hỗ trợ quản lý lịch trình, bảo dưỡng xe, và cung cấp thống kê về hiệu suất kinh doanh.
+Phần mềm quản lý thuê xe còn tích hợp các tính năng an toàn và hỗ trợ quy định về bảo hiểm, đảm bảo an toàn cho khách hàng và tài xế.
+Nó cũng cung cấp ứng dụng di động để khách hàng có thể đặt hàng và thanh toán dễ dàng từ điện thoại di động của họ.
+Phần mềm quản lý thuê xe có vai trò quan trọng trong cung cấp dịch vụ thuê xe hiệu quả và tiện lợi trong ngành vận tải.
 
 # GIỚI THIỆU CÔNG NGHỆ
 Hệ thống sử dụng ngôn ngữ C# và SQL để quản lí dữ liệu
