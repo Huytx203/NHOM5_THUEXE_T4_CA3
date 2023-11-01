@@ -2,10 +2,11 @@
 TH_CNPMNC_Ca3_Thu4
 
 # THÀNH VIÊN 
-- Huỳnh Phi Trường ( Team Lead)
-- Trần Xuân Huy ( Scrum Master)
 - Nguyễn An Quốc Thái ( Product Owner)
-- Võ Minh Hiếu ( Dev chính)
+- Trần Xuân Huy ( Scrum Master)
+- Võ Minh Hiếu ( Dev )
+- Huỳnh Phi Trường ( Team Lead)
+
 
 ![home](https://github.com/Huytx203/NHOM5_THUEXE_T4_CA3/assets/115370011/0c821e78-82f0-46fe-b490-8c919519c77e)
 
