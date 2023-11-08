@@ -18,7 +18,7 @@ Phần mềm giúp tối ưu hóa quá trình kinh doanh thuê xe, cải thiện
 Nó còn hỗ trợ quản lý lịch trình, bảo dưỡng xe, và cung cấp thống kê về hiệu suất kinh doanh.
 Phần mềm quản lý thuê xe còn tích hợp các tính năng an toàn và hỗ trợ quy định về bảo hiểm, đảm bảo an toàn cho khách hàng và tài xế.
 Nó cũng cung cấp ứng dụng di động để khách hàng có thể đặt hàng và thanh toán dễ dàng từ điện thoại di động của họ.
-Phần mềm quản lý thuê xe có vai trò quan trọng trong cung cấp dịch vụ thuê xe hiệu quả và tiện lợi trong ngành vận tải.
+Phần mềm quản lý thuê xe có vai trò quan trọng trong cung cấp dịch vụ thuê xe hiệu quả và tiện lợi trong ngành du lịch và vận tải.
 
 # GIỚI THIỆU CÔNG NGHỆ
 Hệ thống sử dụng ngôn ngữ C# và SQL để quản lí dữ liệu
